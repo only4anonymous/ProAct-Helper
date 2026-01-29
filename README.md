@@ -1,4 +1,4 @@
-# Proactive Agent — Training (SFT) & One-Step Planning Evaluation
+# ProAct: A Benchmark and Multimodal Framework for Structure-Aware Proactive Response
 
 Due to the double-blind review period, datasets will be made available in a future release.
 
