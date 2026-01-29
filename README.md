@@ -1,7 +1,5 @@
 # Proactive Agent — Training (SFT) & One-Step Planning Evaluation
 
-This folder is a **clean, GitHub-ready export** of the core **training** and **testing** code for the Proactive Agent project.
-
 Due to the double-blind review period, datasets will be made available in a future release.
 
 ## Repository Layout
