@@ -2,7 +2,7 @@
 
 This folder is a **clean, GitHub-ready export** of the core **training** and **testing** code for the Proactive Agent project.
 
-**Important**: this repository **does not include datasets, frames, checkpoints, or proprietary assets**. The `data/` directory is intentionally empty (placeholder only).
+Due to the double-blind review period, all dataset data will be released in a subsequent release.
 
 ## Repository Layout
 
