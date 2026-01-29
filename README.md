@@ -2,7 +2,7 @@
 
 This folder is a **clean, GitHub-ready export** of the core **training** and **testing** code for the Proactive Agent project.
 
-Due to the double-blind review period, all dataset data will be released in a subsequent release.
+Due to the double-blind review period, datasets will be made available in a future release.
 
 ## Repository Layout
 
